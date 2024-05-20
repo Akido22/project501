@@ -15,9 +15,6 @@ What is Yenten Coin?
 
 ----------------
 
-![screenshot](https://raw.githubusercontent.com/yentencoin/yenten/yenten-5.0.0/docs/screen.png)
-![](https://raw.githubusercontent.com/yentencoin/yenten/yenten-4.0.0/docs/images/header-teamwork.png)
-
 # Yenten is a cryptocurrency of the cpu, by the cpu, for the cpu.
 No ASIC mineable. No ICO. No premine.
 
